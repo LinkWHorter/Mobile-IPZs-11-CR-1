@@ -1,4 +1,4 @@
-package ipz.kovalov.mobile1
+package com.example.businesscard
 
 import org.junit.Test
 
