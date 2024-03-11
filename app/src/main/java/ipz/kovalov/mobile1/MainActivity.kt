@@ -45,7 +45,7 @@ Column(
     modifier = Modifier
         .fillMaxHeight()
         .fillMaxWidth()
-        .background(color = Color.DarkGray)
+        .background(color = Color.parseColor("#D3D3D3"))
        ,
     horizontalAlignment = Alignment.CenterHorizontally,
     verticalArrangement = Arrangement.Center
@@ -62,8 +62,8 @@ Column(
       modifier = Modifier
 
           .fillMaxWidth()
-          .padding(top = 500.dp)
-          .padding(bottom = 70.dp)
+          .padding(top = 502.dp)
+          .padding(bottom = 75.dp)
 
       ,
       horizontalAlignment = Alignment.CenterHorizontally,
